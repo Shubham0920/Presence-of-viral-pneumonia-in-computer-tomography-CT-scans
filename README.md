@@ -16,7 +16,9 @@ This model is 99.61 percent confident that CT scan is normal
 
 This model is 0.39 percent confident that CT scan is abnormal
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+The correct prediction is normal
+
+![App Screenshot](https://github.com/Shubham0920/Presence-of-viral-pneumonia-in-computer-tomography-CT-scans/blob/main/normal%20CT%20scan.png)
 
   
 #### Example of abnormal
@@ -25,4 +27,6 @@ This model is 0.49 percent confident that CT scan is normal
 
 This model is 99.51 percent confident that CT scan is abnormal
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+The correct prediction is abnormal
+
+![App Screenshot](https://github.com/Shubham0920/Presence-of-viral-pneumonia-in-computer-tomography-CT-scans/blob/main/Abnormal%20CT%20SCAN.png)
